@@ -10,7 +10,7 @@ Desde que recebi o link do GitHub de vocês, venho tentando arduamente fazer o m
 
 Isso me atrasou bastante, pois passei o domingo e a segunda tentando solucionar o problema em vão. Pensei em desistir, admito.
 
-Após refletir muito acerca da oportunidade apresentada pela Phoebus, decidi meter a cara no projeto mesmo com os erros, e fazer o que eu sabia, porém dessa forma, eu sequer pude compilar o sistema, pois como já me referi, algumas classes apresentaram erros. Normalmente utilizo o Eclipse, mas baixaei o InteliJ, porém o problema persistiu...
+Após refletir muito acerca da oportunidade apresentada pela Phoebus, decidi meter a cara no projeto mesmo com os erros, e fazer o que eu sabia, porém dessa forma, eu sequer pude compilar o sistema, pois como já me referi, algumas classes apresentaram erros. Normalmente utilizo o Eclipse, mas baixei o InteliJ, porém o problema persistiu...
 
 Sendo assim, peço que analisem meu código levando em conta essa limitação que tive.
 
